@@ -1,4 +1,7 @@
-# fanta-landing-page
+# Fanta-Landing-Page
+
 Beatiful animated fanta landing page.Slowly sroll down to see the effects.
-# follow this link for demo
+
+# Follow this link for demo
+
 https://joyful-sunburst-d4ebce.netlify.app/
