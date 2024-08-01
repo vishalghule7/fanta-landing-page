@@ -1,6 +1,6 @@
-# Fanta-Landing-Page
+# Fanta-Landing-Page Using Html, Css, Javascript, Gsap
 
-Beatiful animated fanta landing page.Slowly sroll down to see the effects.
+Beatiful animated fanta landing page.Slowly scroll down to see the effects.
 
 # Follow this link for demo
 
